@@ -24,7 +24,7 @@ const Navigation: React.FC = () => {
             height={50} // Adjust height as needed
           />
         </Link>
-        </div>
+      </div>
 
       <div className={styles.logo}>
         <Link href="/">CountDown Timer</Link>
