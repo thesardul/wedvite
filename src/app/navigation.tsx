@@ -18,7 +18,7 @@ const Navigation: React.FC = () => {
       <div className={styles.logo}>
         <Link href="/">
           <Image
-            src="./assets/logo1.svg" // Path to your logo image
+            src="./assets/Logo1.svg" // Path to your logo image
             alt="Wedding Logo"
             width={110} // Adjust width as needed
             height={50} // Adjust height as needed
