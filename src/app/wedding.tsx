@@ -63,7 +63,7 @@ const WeddingPage: React.FC = () => {
       </section>
       <QRCodeGenerator />
       <footer>
-        <p>&copy; 2024 Sardul & Satyam Wedding</p>
+        <p>&copy; 2025 Forever Begins Here – Sardul & Satyam.</p>
       </footer>
     </div>
   );
