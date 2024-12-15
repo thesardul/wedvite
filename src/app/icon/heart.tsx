@@ -22,7 +22,7 @@ export default function App() {
         ref={playerRef}
         size={96}
         icon={ICON}
-        onComplete={() => playerRef.current?.playFromBeginning()}
+        // onComplete={() => playerRef.current?.playFromBeginning()}
       />
     </div>
   );
