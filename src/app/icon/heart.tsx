@@ -13,7 +13,7 @@ export default function App() {
 
   useEffect(() => {
     // Play the animation from the beginning when component mounts
-    playerRef.current?.playFromBeginning();
+    //playerRef.current?.playFromBeginning();
   }, []);
 
   return (
